@@ -1,3 +1,5 @@
+///Program To Print a Table.
+
 #include<stdio.h>
 #include<conio.h>
 
