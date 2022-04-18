@@ -1,4 +1,4 @@
-///Program to check given letter is vowe;l or not.
+///Program to check given letter is vowel or not.
 
 #include<stdio.h>
 #include<conio.h>
